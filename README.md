@@ -329,15 +329,11 @@ Me considero una persona **analítica**, **creativa** y **orientada a resultados
 
 # 🐍 Snake animation
 
-> Esta sección queda lista para cuando configures el workflow de GitHub Actions que genera el archivo `snake.svg`.
-
-<!--
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/EduardoRivas25/EduardoRivas25/output/snake.svg)
 
 </div>
--->
 
 ---
 
