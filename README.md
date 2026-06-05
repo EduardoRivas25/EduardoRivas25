@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Juan Eduardo Rojas Rivas
 
-### 🚀 Estudiante de Ingeniería en Sistemas Computacionales | ITSU MX
+### 🚀 Estudiante de Ingeniería en Sistemas Computacionales | ITSU Uruapan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Desarrollador+de+software+en+formaci%C3%B3n;Apasionado+por+IA%2C+automatizaci%C3%B3n+e+IoT;Construyendo+soluciones+tecnol%C3%B3gicas+con+impacto+real;Nada+que+valga+la+pena+es+f%C3%A1cil" alt="Typing SVG" />
 
