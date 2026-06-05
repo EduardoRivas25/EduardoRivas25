@@ -302,20 +302,19 @@ Me considero una persona **analítica**, **creativa** y **orientada a resultados
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoRivas25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=EduardoRivas25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRivas25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EduardoRivas25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EduardoRivas25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=EduardoRivas25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=EduardoRivas25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 # 📈 Actividad
