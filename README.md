@@ -248,10 +248,6 @@ Me considero una persona **analítica**, **creativa** y **orientada a resultados
     <th>Institución</th>
   </tr>
   <tr>
-    <td>🐍 <b>Python Essentials</b></td>
-    <td>Cisco Networking Academy</td>
-  </tr>
-  <tr>
     <td>🛰️ <b>Tecnologías Espaciales: Diseño y Construcción de Picosatélites</b></td>
     <td>Tecnológico Nacional de México (TecNM)</td>
   </tr>
@@ -259,7 +255,15 @@ Me considero una persona **analítica**, **creativa** y **orientada a resultados
     <td>🗄️ <b>Database Foundations (Español)</b></td>
     <td>Oracle Academy</td>
   </tr>
+   <tr>
+    <td>🗄️ <b>Database Design (Español)</b></td>
+    <td>Oracle Academy</td>
+  </tr>
   <tr>
+     <tr>
+    <td>🐍 <b>Python Essentials</b></td>
+    <td>Cisco Networking Academy</td>
+  </tr>
     <td>🤖 <b>Inmersión IA</b></td>
     <td>Alura + Google</td>
   </tr>
