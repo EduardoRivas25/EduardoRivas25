@@ -312,8 +312,6 @@ Me considero una persona **analítica**, **creativa** y **orientada a resultados
 
 # 📊 Estadísticas de GitHub
 
-# 📊 Estadísticas de GitHub
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=EduardoRivas25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
