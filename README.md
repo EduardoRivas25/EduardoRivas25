@@ -252,18 +252,26 @@ Me considero una persona **analítica**, **creativa** y **orientada a resultados
     <td>Tecnológico Nacional de México (TecNM)</td>
   </tr>
   <tr>
+    <td>📊 <b>Oracle Data Analysis Learning Path (270 Hours)</b></td>
+    <td>Oracle Academy</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Database Programming with SQL (Español)</b></td>
+    <td>Oracle Academy</td>
+  </tr>
+  <tr>
     <td>🗄️ <b>Database Foundations (Español)</b></td>
     <td>Oracle Academy</td>
   </tr>
-   <tr>
+  <tr>
     <td>🗄️ <b>Database Design (Español)</b></td>
     <td>Oracle Academy</td>
   </tr>
   <tr>
-     <tr>
     <td>🐍 <b>Python Essentials</b></td>
     <td>Cisco Networking Academy</td>
   </tr>
+  <tr>
     <td>🤖 <b>Inmersión IA</b></td>
     <td>Alura + Google</td>
   </tr>
